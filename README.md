@@ -24,6 +24,6 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 
 <div> 
 
-  ![Snake animation](https://github.com/KITSHU/KITSHU/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
